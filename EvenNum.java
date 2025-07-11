@@ -16,7 +16,7 @@ public class EvenNum {
 		int i;
 		for(i=2;i<limit;i+=2) {
 			
-			System.out.println("no are: " +i);
+			System.out.println(+i);
 		}
 		
 		sc.close();		
