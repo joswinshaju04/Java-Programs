@@ -1,5 +1,5 @@
 /* 
- * Title: Book Detail
+ * Title: Static demo example
  * Author : Joswin Shaju
  * Date : 29/07/2025
  */
